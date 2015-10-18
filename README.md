@@ -1,0 +1,1 @@
+- Each challenge should go in its own folder.
